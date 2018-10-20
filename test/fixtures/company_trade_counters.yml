@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+counter_a:
+  company: company_a
+  counter: 3
+
+counter_b:
+  company: company_b
+  counter: 1
